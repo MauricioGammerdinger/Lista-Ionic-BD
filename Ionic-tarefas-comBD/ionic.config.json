@@ -1,0 +1,7 @@
+{
+  "name": "Guia Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
